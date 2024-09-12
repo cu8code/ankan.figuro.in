@@ -18,8 +18,8 @@ function About() {
             <div className="space-y-4">
               <p className="max-w-[700px] text-gray-500 dark:text-gray-400 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
                 <TextReveal>
-                  I'm a Full-stack Developer specializing in front-end design and accessibility. I’m passionate about working
-                  quickly and efficiently, always aiming to improve and iterate. I’ve built a full-stack distributed system that
+                  I{"'"}m a Full-stack Developer specializing in front-end design and accessibility. I{"'"}m passionate about working
+                  quickly and efficiently, always aiming to improve and iterate. I{"'"}ve built a full-stack distributed system that
                   made $1K (80K INR) in monthly recurring revenue. I also enjoy contributing to open source projects and have
                   made significant contributions to repositories like Podman, Containers and Http-rs.
                 </TextReveal>
