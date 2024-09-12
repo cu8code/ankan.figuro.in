@@ -56,8 +56,7 @@ function Contact() {
           </h2>
           <p className="max-w-[600px] text-muted-foreground">
             <TextReveal>
-              Have a question or want to work together? Send me a message using
-              the form.
+              Have a question or want to work together? Send me a email.
             </TextReveal>
           </p>
         </div>
