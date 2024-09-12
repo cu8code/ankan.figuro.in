@@ -10,6 +10,14 @@ const projects: Project[] = [
     tags: ['NextJS', 'Chakra UI', 'TailwindCSS', 'Drizzle ORM']
   },
   {
+    name: 'ui.figuro.in',
+    slug: 'portfolio',
+    description:
+      'A shadcn ui extension with new custom components.',
+    thumbnail: '/images/projects/study_group/cover.jpg',
+    tags: ['NextJS', 'TailwindCSS']
+  },
+  {
     name: 'Code Runner',
     slug: 'recipe_app',
     description:
